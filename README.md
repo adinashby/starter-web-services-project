@@ -36,13 +36,13 @@ Also, include a document explaining task distribution between team members.
 For this deliverable, you have the following tasks based on your course outline **(15%)**:
 
 • API Documentation & How to use – 5%  
-• Using CI/CD tools - 5%
+• Using CI/CD tools - 5%  
 • Test cases - 5%
 
 Final report: **(5%)**  
 • Project aim and description  
 • Functional and non-functional requirements  
-• User stories
+• User stories  
 • Individual’s role and responsibilities
 
 You can include everything except the "node_modules" folder so it fits within the limits for uploading.
